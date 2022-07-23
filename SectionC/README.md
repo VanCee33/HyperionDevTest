@@ -6,4 +6,4 @@ isbn13("0330301824") ➞ "Invalid"
 
 isbn13("0316066524") ➞ "9780316066524"
 
-THere are statements which return 'True' in the function file.
+There are statements which return 'True' in the function file.
